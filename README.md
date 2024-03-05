@@ -1,6 +1,6 @@
 # Flappy-bird-python
 A basic Flappy Bird game made in Python
-
+It tracks user's score and high score and the user can replay it once it ends by pressing "R".
 
 ## Dependence:
 * pygame
